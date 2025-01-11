@@ -1,0 +1,56 @@
+C:\semestr7\MachineLearningV2\lab1\pythonProject\.venv\Lib\site-packages\torch\_tensor.py:955: UserWarning: non-inplace resize is deprecated
+  warnings.warn("non-inplace resize is deprecated")
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+C:\Users\domin\AppData\Local\Temp\ipykernel_23424\3540989096.py:3: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  plt.figure()
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="criterion" type="MSELoss" qualifier="torch.nn.modules.loss" value="MSELoss%28%29" isContainer="True" />
+<var name="epoch" type="int" qualifier="builtins" value="4" />
+<var name="epochs" type="int" qualifier="builtins" value="5" />
+<var name="i" type="int" qualifier="builtins" value="29" />
+<var name="image" type="Tensor" qualifier="torch" value="tensor%28%5B%5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        ...%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%5D%29" isContainer="True" shape="(96, 784)" />
+<var name="item" type="ndarray" qualifier="numpy" value="%5B%5B1.22166437e-08 2.46802738e-08 1.45451384e-08 1.44718886e-08%2C  6.67640876e-08 5.81521988e-07 1.71672418e-05 1.03557259e-05%2C  2.23777082e-04 1.01207383e-02 2.19142169e-01 5.76006651e-01%2C  5.26525080e-01 4.99388903e-01 4.68993425e-01 4.91469324e-01%2C  6.21490955e-01 5.70486367e-01 5.78439772e-01 5.43240786e-01%2C  1.99131984e-02 5.80721244e-04 3.03816923e-05 2.04271771e-07%2C  9.86259536e-08 1.77923436e-08 1.59844920e-08 1.35055798e-08%5D%2C %5B1.41187551e-08 1.80695654e-08 1.73661991e-08 1.30668610e-07%2C  8.38021037e-07 1.76729557e-07 5.00788701e-07 3.08153030e-05%2C  5.56251616e-04 2.71271002e-02 4.24350828e-01 8.44043314e-01%2C  8.22109282e-01 8.55953515e-01 8.78880262e-01 8.69606972e-01%2C  8.51487875e-01 8.26752007e-01 8.42758656e-01 7.38265872e-01%2C  6.04756959e-02 2.44599156e-04 7.94591906e-05 8.18405988e-06%2C  4.68020716e-07 4.63042973e-08 3.34657315e-08 9.35780697e-09%5D%2C %5B3.21549045e-08 2.96673264e-08 9.05151367e-08 1.41692212e-07%2C  2.18056286e-07 1.77380315e-07 9.30865554e-06 2.64311675e-04%2C  2.28..." isContainer="True" shape="(28, 28)" />
+<var name="loss" type="Tensor" qualifier="torch" value="tensor%280.0157%2C grad_fn=%3CMseLossBackward0&gt;%29" isContainer="True" shape="()" />
+<var name="losses" type="list" qualifier="builtins" value="%5B0.17007501423358917%2C 0.13988588750362396%2C 0.11411869525909424%2C 0.1444539874792099%2C 0.11500310897827148%2C 0.0934823751449585%2C 0.07048746943473816%2C 0.06945421546697617%2C 0.07662936300039291%2C 0.07532282918691635%2C 0.07261282205581665%2C 0.06976599246263504%2C 0.061122868210077286%2C 0.05477214977145195%2C 0.04987263306975365%2C 0.05271143838763237%2C 0.05270562320947647%2C 0.052374113351106644%2C 0.053110722452402115%2C 0.05071984604001045%2C 0.05007217824459076%2C 0.04702375829219818%2C 0.044899873435497284%2C 0.04419498145580292%2C 0.047223154455423355%2C 0.04702085256576538%2C 0.051699984818696976%2C 0.04758308455348015%2C 0.04418699070811272%2C 0.04564851522445679%2C 0.051943663507699966%2C 0.04136843606829643%2C 0.043173108249902725%2C 0.04203140363097191%2C 0.04268491640686989%2C 0.03934597223997116%2C 0.04134970158338547%2C 0.042951419949531555%2C 0.04085572436451912%2C 0.038483526557683945%2C 0.038838595151901245%2C 0.041557203978300095%2C 0.04150332137942314%2C 0.04704912379384041%2C 0.03879023343324661%2C 0.0384962260723114%2C 0.03960937261581421%2C 0.0..." isContainer="True" shape="2345" />
+<var name="lr" type="float" qualifier="builtins" value="0.001" />
+<var name="model" type="NeuralNetwork" qualifier="__main__" value="NeuralNetwork%28%0A  %28encoder%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=784%2C out_features=512%2C bias=True%29%0A    %281%29%3A ReLU%28%29%0A    %282%29%3A...features=512%2C bias=True%29%0A    %281%29%3A ReLU%28%29%0A    %282%29%3A Linear%28in_features=512%2C out_features=784%2C bias=True%29%0A    %283%29%3A Sigmoid%28%29%0A  %29%0A%29" isContainer="True" />
+<var name="optimizer" type="RMSprop" qualifier="torch.optim.rmsprop" value="RMSprop %28%0AParameter Group 0%0A    alpha%3A 0.99%0A    capturable%3A False%0A    centered%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    lr%3A 0.001%0A    maximize%3A False%0A    momentum%3A 0%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="outputs" type="list" qualifier="builtins" value="%5B%280%2C tensor%28%5B%5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        ...%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%5D%29%2C tensor%28%5B%5B3.4843e-05%2C 2.6287e-05%2C 3.1411e-05%2C  ...%2C 5.4018e-04%2C 6.8476e-05%2C%0A         3.2869e-05%5D%2C%0A        %5B2.4125e-07%2C 2.6518e-...%2C%0A        %5B1.5917e-03%2C 1.4755e-03%2C 1.3822e-03%2C  ...%2C 1.4395e-02%2C 3.0170e-03%2C%0A         1.8849e-03%5D%5D%2C grad_fn=%3CSigmoidBackward0&gt;%29%29%2C %281%2C tensor%28%5B%5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        ...%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%2C%0A        %5B0.%2C 0.%2C 0.%2C  ...%2C 0.%2C 0.%2C 0.%5D%5D%29%2C tensor%28%5B%5B3.0609e-05%2C 2.9683e-05%2C 1.9617e-05%2C  ...%2C 3.0972e-06%2C 7.3815e-05%2C%0A         2.1675e-05%5D%2C%0A        %5B1.4374e-06%2C 1.0001e-...%2C%0A        %5B6.3087e-04%2C 7.6369e-04%2C 4.7241e-04%2C  ...%2C 1.2115e-02%2C 1.7051e-03%2C%0A         7.7507e..." isContainer="True" shape="5" />
+<var name="reconstruction" type="Tensor" qualifier="torch" value="tensor%28%5B%5B1.2217e-08%2C 2.4680e-08%2C 1.4545e-08%2C  ...%2C 8.1745e-07%2C 6.2106e-08%2C%0A         2.4904e-08%5D%2C%0A        %5B3.5959e-16%2C 4.6469e-...%2C%0A        %5B1.7389e-10%2C 4.0157e-10%2C 4.7494e-10%2C  ...%2C 4.8405e-07%2C 4.9403e-07%2C%0A         4.4828e-10%5D%5D%2C grad_fn=%3CSigmoidBackward0&gt;%29" isContainer="True" shape="(96, 784)" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x000001CABEC62A50&gt;" isContainer="True" />
+<var name="tensor" type="Tensor" qualifier="torch" value="tensor%28%5B6.1867e-08%2C 3.3515e-08%2C 6.8756e-08%2C 2.5149e-08%2C 2.6735e-07%2C 7.8439e-06%2C%0A        2.5069e-07%2C 3.1039e-07%2C 1.0730e-07%2C 8.....8647e-06%2C 2.5677e-07%2C 9.7918e-07%2C 2.0050e-05%2C 1.4958e-04%2C 7.8387e-05%2C%0A        2.4422e-05%2C 1.8568e-05%2C 2.4816e-05%2C 7.7716e-08%5D%29" isContainer="True" shape="(784,)" />
+<var name="tensor1" type="Tensor" qualifier="torch" value="tensor%28%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A        0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000....0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A        0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A        0.0000%5D%29" isContainer="True" shape="(784,)" />
+<var name="tensor_transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="train_dataset" type="FashionMNIST" qualifier="torchvision.datasets.mnist" value="Dataset FashionMNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ../fashion-mnist/data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x000001CABB8B3D10&gt;" isContainer="True" shape="469" />
+</xml>

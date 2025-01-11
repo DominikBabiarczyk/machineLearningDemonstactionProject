@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.12.8",
+  "startedAt": "2025-01-11T00:06:14.647702Z",
+  "program": "reconstruction.ipynb",
+  "codePath": "reconstruction.ipynb",
+  "git": {
+    "remote": "https://github.com/DominikBabiarczyk/machineLearningDemonstactionProject",
+    "commit": "2073696ecebb63847acc4066b3dd326440527efe"
+  },
+  "email": "dominik.babiarczyk1@gmail.com",
+  "root": "C:\\semestr7\\MachineLearningV2\\lab1\\pythonProject",
+  "host": "DESKTOP-M5PFVME",
+  "executable": "C:\\semestr7\\MachineLearningV2\\lab1\\pythonProject\\.venv\\Scripts\\python.exe",
+  "codePathLocal": "reconstruction.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "511427207168",
+      "used": "372630245376"
+    }
+  },
+  "memory": {
+    "total": "16520966144"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}
