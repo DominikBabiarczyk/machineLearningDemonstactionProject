@@ -1,0 +1,21 @@
+{"time":"2025-01-11T01:06:14.6726797+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"C:\\semestr7\\MachineLearningV2\\lab1\\pythonProject\\wandb\\run-20250111_010613-2rken8c2\\logs\\debug-core.log"}
+{"time":"2025-01-11T01:06:15.2685157+01:00","level":"INFO","msg":"created new stream","id":"2rken8c2"}
+{"time":"2025-01-11T01:06:15.2690785+01:00","level":"INFO","msg":"stream: started","id":"2rken8c2"}
+{"time":"2025-01-11T01:06:15.2690785+01:00","level":"INFO","msg":"sender: started","stream_id":"2rken8c2"}
+{"time":"2025-01-11T01:06:15.2690785+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"2rken8c2"}
+{"time":"2025-01-11T01:06:15.2690402+01:00","level":"INFO","msg":"handler: started","stream_id":"2rken8c2"}
+{"time":"2025-01-11T01:06:15.6810303+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-11T01:07:12.5047542+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-11T01:07:12.5062728+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-11T01:07:19.0989629+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-11T01:33:56.5906463+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-11T01:34:04.4594993+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-11T01:34:04.5445306+01:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open C:\\semestr7\\MachineLearningV2\\lab1\\pythonProject\\wandb\\run-20250111_010613-2rken8c2\\files\\output.log: System nie może odnaleźć określonej ścieżki."}
+{"time":"2025-01-11T01:34:49.5470898+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-11T01:35:43.7280444+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-11T01:39:16.3093857+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-11T02:00:53.0074616+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-11T02:00:53.9528641+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-11T02:09:39.1996262+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-11T02:09:39.2352878+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-11T02:09:45.1291242+01:00","level":"INFO","msg":"Pausing system monitor"}
